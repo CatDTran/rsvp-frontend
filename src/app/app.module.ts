@@ -1,7 +1,9 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { HttpModule } from '@angular/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MdButtonModule } from '@angular/material';
+import 'hammerjs';  // gesture support for some Angular Material components
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
@@ -29,6 +31,7 @@ import { RsvpBookDetailComponent } from './rsvp-book-detail/rsvp-book-detail.com
   ],
   imports: [
     BrowserModule,
+    HttpModule,
     MdButtonModule,
     BrowserAnimationsModule,
     AppRoutingModule
