@@ -1,3 +1,6 @@
+//**********************************************************************************
+//NOTE: This is the user detail component for this app. It should display the info of a user
+//**********************************************************************************
 import { Component, OnInit } from '@angular/core';
 
 @Component({

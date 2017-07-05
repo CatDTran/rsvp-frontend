@@ -1,3 +1,6 @@
+//**********************************************************************************
+//NOTE: This is the hamburger button component for this app
+//**********************************************************************************
 import { Component, OnInit } from '@angular/core';
 
 @Component({

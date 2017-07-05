@@ -1,3 +1,6 @@
+//**********************************************************************************
+//NOTE: This is the reservation detail component for this app. It should display the detail of a reservation
+//**********************************************************************************
 import { Component, OnInit } from '@angular/core';
 
 @Component({

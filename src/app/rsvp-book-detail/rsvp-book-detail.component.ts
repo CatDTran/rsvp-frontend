@@ -1,3 +1,6 @@
+//**********************************************************************************
+//NOTE: This is the book detail component for this app. It should display the detail of a rsvp book
+//**********************************************************************************
 import { Component, OnInit } from '@angular/core';
 
 @Component({

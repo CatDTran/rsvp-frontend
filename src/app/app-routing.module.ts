@@ -1,3 +1,6 @@
+//**********************************************************************************
+//NOTE: This file responsible for all the routings for this app. It decides which Component to show depends on user's interaction through out the app
+//**********************************************************************************
 import { NgModule }              from '@angular/core';
 import { RouterModule, Routes }  from '@angular/router';
 

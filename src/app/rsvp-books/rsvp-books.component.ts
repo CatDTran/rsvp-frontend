@@ -1,3 +1,6 @@
+//**********************************************************************************
+//NOTE: This is the book list component for this app. It should display a list of rsvp books for a user
+//**********************************************************************************
 import { Component, OnInit } from '@angular/core';
 
 @Component({

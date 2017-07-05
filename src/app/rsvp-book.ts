@@ -1,3 +1,6 @@
+//**********************************************************************************
+//NOTE: This file contains the RsvpBook model and its properties
+//**********************************************************************************
 import { User } from './user';
 import { Reservation } from './reservation';
 

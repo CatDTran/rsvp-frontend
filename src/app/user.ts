@@ -1,3 +1,6 @@
+//**********************************************************************************
+//NOTE: This file contains the User model and its properties
+//**********************************************************************************
 import {Reservation} from './reservation';
 import {RsvpBook} from './rsvp-book';
 

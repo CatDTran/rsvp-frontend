@@ -1,3 +1,6 @@
+//**********************************************************************************
+//NOTE: This is the reservations list component for this app. It should display a list of reservations for a user
+//**********************************************************************************
 import { Component, OnInit } from '@angular/core';
 
 @Component({
